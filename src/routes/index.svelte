@@ -22,6 +22,11 @@
 
 		to the<br />Otranto Civic Club Homepage
 	</h1>
+	<img
+		src="https://scontent.fcae1-1.fna.fbcdn.net/v/t1.18169-9/10361510_663300007115882_4031566852474803381_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=tlDVSo2-paoAX9bliRc&_nc_ht=scontent.fcae1-1.fna&oh=00_AT-krghrW10sACa9g64YjVi7WQArLuiWQzDEQ0xUOAlKgQ&oe=626955C8"
+		width="50%"
+		alt="a sign"
+	/>
 	<p>----------------------------------------------------------------------------</p>
 
 	<News />

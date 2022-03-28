@@ -1,11 +1,18 @@
-<h1>Here comes Peter Cottontail</h1>
+<h1 id="headline">Here comes Peter Cottontail</h1>
+<!-- <img
+		id="sideImage"
+		src="https://www.seekpng.com/png/small/161-1610962_cotton-tail-cottontail-rabbit-peter-rabbit.png"
+		alt="Cute Little Bunny"
+		height="100px"
+	/> -->
 <p>
 	It's time for our annual Easter Egg Hunt! Bring your Easter Basket, bring your cameras, bring your
 	family to enjoy an afternoon of candy, prizes, and fun. Don't mess the chance to get your picture
-	taken with The Easter Bunny. The eff hunt will consist of two areas, one for children ages 4 and
+	taken with The Easter Bunny. The egg hunt will consist of two areas, one for children ages 4 and
 	under and one for ages 5 to 12. Snacks and water will be provided. Everyone in Otranto is invited,
 	so bring a friend.
 </p>
+
 <table>
 	<tr>
 		<th>Date</th>
@@ -123,7 +130,7 @@
 		font-family: cursive;
 	}
 	table {
-		width: 50%;
+		width: 70%;
 		text-align: center;
 		padding: 20px;
 		margin: 20px;
@@ -132,6 +139,18 @@
 	}
 	#holidayTable {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: 1fr 2fr 1fr 2fr;
+	}
+	#holidayTable h2 {
+		justify-self: center;
+		text-align: center;
+		margin-top: auto;
+		margin-bottom: auto;
+	}
+	#headline {
+		justify-self: center;
+		text-align: center;
+		margin-top: auto;
+		margin-bottom: auto;
 	}
 </style>

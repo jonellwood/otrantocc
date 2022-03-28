@@ -1,5 +1,6 @@
 <script context="module">
 	import { browser, dev } from '$app/env';
+	import Contact from '$lib/Contact.svelte';
 
 	// we don't need any JS on this page, though we'll load
 	// it in dev so that we get hot module replacement...
@@ -24,7 +25,7 @@
 
 <div class="content">
 	<h1>About the Otranto Civic Club</h1>
-
+	<Contact />
 	<Members />
 </div>
 
