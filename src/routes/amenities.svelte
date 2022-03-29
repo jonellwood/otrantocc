@@ -62,7 +62,7 @@
 	</p>
 </div>
 
-<h2>Check out a Hanahan Parks website</h2>
+<h3>Check out a Hanahan Parks website</h3>
 
 <a href="https://hanahanparks.com" rel="noopener noreferrer" target="_blank">Yes To Parks</a>
 
@@ -88,5 +88,12 @@
 		margin-bottom: auto;
 		border-right: 1px blue solid;
 		/* border-top: 1px blue solid; */
+	}
+	h3 {
+		text-align: center;
+		font-weight: 500;
+		font-size: x-large;
+		margin-top: auto;
+		margin-bottom: auto;
 	}
 </style>
