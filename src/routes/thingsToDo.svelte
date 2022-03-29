@@ -2,5 +2,5 @@
 <ul>
 	<li>Payment feature for dues</li>
 	<li>Calendar feature - touch to add to calender?</li>
-	<li>Photo gallary</li>
+	<li><strike>Photo gallery</strike></li>
 </ul>

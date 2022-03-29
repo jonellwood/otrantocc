@@ -113,6 +113,13 @@
 	</table>
 </div>
 
+<h1 class="special">Special Thanks to Ann Yarborough</h1>
+<p>
+	Ann has been a long-time resident of Otranto. She has served tirelessly in numerous positions on
+	the Civic Club Board fro 20 years. She recent sold her house and is moving closer to her son.
+	Thank you Ann, for you dedication and hard work serving Otranto. You will be greatly missed!
+</p>
+
 <style>
 	h1 {
 		font-size: x-large;
@@ -152,5 +159,10 @@
 		text-align: center;
 		margin-top: auto;
 		margin-bottom: auto;
+	}
+	@media only screen and (max-width: 800px) {
+		#holidayTable {
+			display: block;
+		}
 	}
 </style>

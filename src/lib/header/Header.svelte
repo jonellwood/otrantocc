@@ -12,13 +12,13 @@
 			<li class:active={$page.url.pathname === '/about'}>
 				<a sveltekit:prefetch href="/about">About</a>
 			</li>
-			<li class:active={$page.url.pathname === '/Photos'}>
+			<li class:active={$page.url.pathname === '/photos'}>
 				<a sveltekit:prefetch href="/photos">Photos</a>
 			</li>
 			<li class:active={$page.url.pathname === '/amenities'}>
 				<a sveltekit:prefetch href="/amenities">Otranto Amenities</a>
 			</li>
-			<li class:active={$page.url.pathname === '/thingsToDO'}>
+			<li class:active={$page.url.pathname === '/thingsToDo'}>
 				<a sveltekit:prefetch href="/thingsToDo">TODO's</a>
 			</li>
 		</ul>
@@ -34,7 +34,7 @@
 		justify-content: space-between;
 	}
 
-	.corner {
+	/* .corner {
 		width: 3em;
 		height: 3em;
 	}
@@ -51,7 +51,7 @@
 		width: 2em;
 		height: 2em;
 		object-fit: contain;
-	}
+	} */
 
 	nav {
 		display: flex;
