@@ -1,5 +1,6 @@
 <script context="module">
 	import { browser, dev } from '$app/env';
+	// @ts-ignore
 	import Contact from '$lib/Contact.svelte';
 
 	// we don't need any JS on this page, though we'll load
@@ -16,6 +17,7 @@
 </script>
 
 <script>
+	// @ts-ignore
 	import Members from '$lib/Members.svelte';
 </script>
 
@@ -34,11 +36,5 @@
 		width: 100%;
 		max-width: var(--column-width);
 		margin: var(--column-margin-top) auto 0 auto;
-	}
-	table {
-		width: 90%;
-		text-align: center;
-		padding: 20px;
-		margin: 20px;
 	}
 </style>

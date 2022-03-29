@@ -61,7 +61,7 @@
 	table {
 		width: 90%;
 		text-align: center;
-		padding: 20px;
+		padding: 10px;
 		margin: 20px;
 	}
 	h2 {

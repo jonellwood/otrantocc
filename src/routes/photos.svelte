@@ -1,4 +1,5 @@
 <script>
+	// @ts-ignore
 	import Gallery from 'svelte-image-gallery';
 
 	function handleClick(e) {

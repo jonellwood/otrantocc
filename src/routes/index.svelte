@@ -51,6 +51,7 @@
 		width: 100%;
 		height: 0;
 		padding: 0 0 calc(100% * 495 / 2048) 0;
+		border: none;
 	}
 
 	.welcome img {

@@ -1,10 +1,5 @@
-<h1 id="headline">Here comes Peter Cottontail</h1>
-<!-- <img
-		id="sideImage"
-		src="https://www.seekpng.com/png/small/161-1610962_cotton-tail-cottontail-rabbit-peter-rabbit.png"
-		alt="Cute Little Bunny"
-		height="100px"
-	/> -->
+<h1 id="headline">🐰 Here comes Peter Cottontail 🐰</h1>
+
 <p>
 	It's time for our annual Easter Egg Hunt! Bring your Easter Basket, bring your cameras, bring your
 	family to enjoy an afternoon of candy, prizes, and fun. Don't mess the chance to get your picture
@@ -32,7 +27,7 @@
 	</tr>
 </table>
 
-<h1>Otranto Block Party</h1>
+<h1>🎉 Otranto Block Party 🎉</h1>
 <p>
 	The block part was a huge success! The kids enjoyed the jump castle, games, pizza, and ice cream.
 	Special thanks to everyone who suppoert this event from setup, to buying and preparing food, those
@@ -40,7 +35,7 @@
 	crew. It takes a villiage and we appreciate the help.
 </p>
 
-<h1>Keep Otranto Beautiful</h1>
+<h1>🙏 Keep Otranto Beautiful 🗑️</h1>
 
 <p>
 	If youy see litter in yoru yard or on the side of the street, please pick it up and properly
@@ -60,7 +55,7 @@
 	will continue with the landscape maintenace for the 21 medians throughout the subdivision.
 </p>
 
-<h1>Holiday Light Decorating Contest</h1>
+<h1>🎄 Holiday Light Decorating Contest 🎄</h1>
 <p>
 	Special thanks to everyone who secorated their yeards and houses during the Holidays. The
 	consensus was there were more lights this year than years past! The winners of the Holiday Light
@@ -129,8 +124,7 @@
 		font-style: italic;
 		font-weight: bolder;
 		font-size: larger;
-		text-shadow: 2px 2px 5px red;
-		/* text-shadow: 1px 1px 3px green; */
+		text-shadow: 1px 1px 1px rgba(240, 52, 52, 0.6);
 	}
 	.special {
 		font-size: large;
@@ -142,7 +136,7 @@
 		padding: 20px;
 		margin: 20px;
 		border: 1px green solid;
-		box-shadow: 3px 3px 3px 5px rgba(240, 52, 52, 0.51);
+		box-shadow: 3px 3px 3px 5px rgba(240, 52, 52, 0.6);
 	}
 	#holidayTable {
 		display: grid;
