@@ -105,9 +105,13 @@
 	:global(img) {
 		opacity: 0.9;
 		transition: all 0.2s;
+		border: 1px blue solid;
+		margin: 5px;
 	}
 	:global(img):hover {
 		opacity: 1;
 		transform: scale(1.04);
+		/* border: 2px blue solid; */
+		box-shadow: 3px 3px rgba(0, 0, 255, 50%), -1em 0 0.4em rgb(173, 216, 230, 50%);
 	}
 </style>

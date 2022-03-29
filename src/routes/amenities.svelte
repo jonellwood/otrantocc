@@ -7,7 +7,8 @@
 	<p>
 		<a
 			href="https://www.google.com/maps/place/Neighborhood+Park/@32.9605227,-80.0315585,676m/data=!3m1!1e3!4m13!1m7!3m6!1s0x88fe6167d82eb157:0xd34e8b877a75ff82!2sVenice+Ave,+Hanahan,+SC+29410!3b1!8m2!3d32.9604293!4d-80.0335483!3m4!1s0x88fe61f5346c462d:0x7296c5dd9f530479!8m2!3d32.9603855!4d-80.0318284"
-			>MAP</a
+			rel="noopener noreferrer"
+			target="_blank">MAP</a
 		>
 	</p>
 	<p>
@@ -27,7 +28,8 @@
 	<p>
 		<a
 			href="https://www.google.com/maps/place/Manor+Blvd,+Hanahan,+SC+29410/@32.9686198,-80.0393748,661m/data=!3m1!1e3!4m5!3m4!1s0x88fe616dbea43251:0x258b5fefb5224a15!8m2!3d32.9688248!4d-80.0411523"
-			>MAP</a
+			rel="noopener noreferrer"
+			target="_blank">MAP</a
 		>
 	</p>
 	<p>
@@ -37,7 +39,6 @@
 			alt="park with swing"
 		/>
 	</p>
-
 	<h2>Tennis/Pickle Ball Courts</h2>
 	<p>
 		The courts are located directly across the street from the Fire Station at 1200 S. Basillica
@@ -48,7 +49,8 @@
 	<p>
 		<a
 			href="https://www.google.com/maps/place/Neighborhood+Park/@32.9604338,-80.035737,17z/data=!4m13!1m7!3m6!1s0x88fe6167d82eb157:0xd34e8b877a75ff82!2sVenice+Ave,+Hanahan,+SC+29410!3b1!8m2!3d32.9604293!4d-80.0335483!3m4!1s0x88fe61f5346c462d:0x7296c5dd9f530479!8m2!3d32.9603855!4d-80.0318284"
-			>MAP</a
+			rel="noopener noreferrer"
+			target="_blank">MAP</a
 		>
 	</p>
 	<p>
@@ -60,24 +62,31 @@
 	</p>
 </div>
 
-<h2>Check out Hanahan Park official website</h2>
+<h2>Check out a Hanahan Parks website</h2>
 
-<a href="https://hanahanparks.com">CLICK ME</a>
+<a href="https://hanahanparks.com" rel="noopener noreferrer" target="_blank">Yes To Parks</a>
 
 <style>
 	#parkList {
 		display: grid;
 		grid-template-columns: 1fr 2fr;
-		border: 1px blue dotted;
+		/* border: 1px blue dotted; */
 	}
 	#parkList h2,
 	p,
 	a {
 		padding: 10px;
+		/* margin-top: auto;
+		margin-bottom: auto; */
+		margin: auto;
 	}
 	h2 {
 		text-align: center;
 		font-weight: 500;
-		font-size: larger;
+		font-size: x-large;
+		margin-top: auto;
+		margin-bottom: auto;
+		border-right: 1px blue solid;
+		/* border-top: 1px blue solid; */
 	}
 </style>
