@@ -96,4 +96,9 @@
 		margin-top: auto;
 		margin-bottom: auto;
 	}
+	@media only screen and (max-width: 800px) {
+		#parkList {
+			display: block;
+		}
+	}
 </style>
